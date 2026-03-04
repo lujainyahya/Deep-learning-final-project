@@ -1,0 +1,10 @@
+Resnet-50
+https://colab.research.google.com/drive/1pZfyAu1v6q19xBMIbtJdyYY0RsZJHd9A?usp=sharing
+
+
+CNN Custom
+https://colab.research.google.com/drive/1NY2xdXEtihgir-ZmNzsdtVc8bnI4hFKA?usp=sharing
+
+
+EfficientNet
+https://colab.research.google.com/drive/1reIyxegzXJX6IfixgqpxsGCPGsG-cj9Q?usp=sharing
